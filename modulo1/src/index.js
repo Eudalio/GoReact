@@ -5,7 +5,7 @@ import './style.scss'
 
 class Button extends Component {
     render() {
-        return <a href=''>Enviar</a> 
+        return <a href=''>Enviar</a>
     }
 }
 

@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #E9EBEE;
+
+  .header {
+    background-color: #4267B2;
+    text-align: center;
+  }
+
+  .header h2 {
+    border-bottom: 1px solid #29487D;
+    font-size: 20px;
+    color: #FFF;
+    padding: 5px 0;
+  }
+
+  .postHeader {
+    border-bottom: 1px solid #EEE;
+    clear: both;
+  }
+
+  .post {
+    width: 700px;
+    padding: 30px;
+    border: 1px solid #CCC;
+    background-color: #FFF;
+    border-radius: 4px;
+    margin: 30px auto;
+  }
+
+  .avatar {
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    float: left;
+  }
+
+  .dataHeader {
+    margin-left: 75px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+  }
+
+  .nome {
+    font-size: 16px;
+    color: #666;
+  }
+
+  .hora {
+    font-size: 14px;
+    color: #999;
+  }
+
+  .conteudo {
+    font-size: 16px;
+    color: #333;
+    margin-top: 20px;
+  }
+}

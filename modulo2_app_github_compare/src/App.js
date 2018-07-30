@@ -2,9 +2,11 @@ import React from 'react';
 
 import './styles/global';
 
+import Main from './pages/main';
+
 const App = () => (
   <div className="App">
-    <h1 className="App-title">Welcome to React</h1>
+    <Main />
   </div>
 );
 
